@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourav Pandey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **REACT JS , NODE JS**
+- 🌱 I’m currently learning **TERRAFORM , ANSIBLE**
 
 - 👯 I’m looking to collaborate on **Javascript , Mysql**
 
