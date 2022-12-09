@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gourav Pandey</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 - 🌱 I’m currently learning **TERRAFORM , ANSIBLE**
 
-- 👯 I’m looking to collaborate on **Javascript , Mysql**
+- 👯 I’m looking to collaborate on **Kubernetes , Docker**
 
-- 🤝 I’m looking for help with **HTML , CSS , JAVASCRIPT , MYSQL**
+- 🤝 I’m looking for help with **AWS , MYSQQL , AUTOMATION , SHELL SCRIPTING (BASH,PYTHON)**
 
-- 📝 I regularly write articles on [JAVASCRIPT , MYSQL](JAVASCRIPT , MYSQL)
+- 📝 I regularly write articles on [LINUX , AWS CLOUD](JAVASCRIPT , MYSQL)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,SQL,MYSQL,REACT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,TERRAFORM,JENKINS,ANSIBLE,PACKER,GRAFANA,MAVEN,SONARQUBE,OPENSHIFTSQL,MYSQL,REACT,NODE**
 
 - 📫 How to reach me **ImGouravPandey@gmail.com**
 
