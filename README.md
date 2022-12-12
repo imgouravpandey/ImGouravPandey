@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Advance Kubernetes projects**
 
-- 🤝 I’m looking for help with **advance Scripting**
+- 🤝 I’m looking for help with **Advance Scripting**
 
 - 👨‍💻 All of my projects are available at [www.gouravdevops.me](www.gouravdevops.me)
 
