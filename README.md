@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Advance Scripting**
 
-- 👨‍💻 All of my projects are available at [www.gouravdevops.me](www.gouravdevops.me)
+- 👨‍💻 All of my projects are available at [http://www.gouravdevops.me](http://www.gouravdevops.me)
 
 - 📝 I regularly write articles on [Automation Scriptings](Automation Scriptings)
 
