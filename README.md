@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ImGouravPandey@gmail.com**
 
-- 📄 Know about my experiences [www.gouravdevops.me](www.gouravdevops.me)
+- 📄 Know about my experiences [http://www.gouravdevops.me/](http://www.gouravdevops.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
