@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.gouravdevops.me](http://www.gouravdevops.me)
 
-- 📝 I regularly write articles on [Automation scripts
+- 📝 I regularly write articles on Automation scripts
 
 - 💬 Ask me about **CI/CD, Terraform, Ansible, MYSQL, BASH**
 
