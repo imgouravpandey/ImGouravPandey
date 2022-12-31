@@ -1,6 +1,7 @@
-<p> <img src="./devops.png" alt=""></p>
+[![MasterHead](https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif)]
 <h1 align="center">Hi 👋, I'm Gourav Kumar Pandey</h1>
 <h3 align="center">DevOps Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working with **MicroTechnologies India**
 - 🌱 I’m currently learning **Kubernetes, Docker, Ansible, Jenkins, Python**
