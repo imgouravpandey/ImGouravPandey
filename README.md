@@ -1,13 +1,13 @@
 [![MasterHead](https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif)]
 <h1 align="center">Hi 👋, I'm Gourav Kumar Pandey</h1>
-<h3 align="center">DevOps Engineer from India</h3>
+<h3 align="center">DevOps Engineer, Cloud Architect and Linux Specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working with **MicroTechnologies India**
-- 🌱 I’m currently learning **Kubernetes, Docker, Ansible, Jenkins, Python**
+- 🌱 My Technical Skills are **AWS Cloud, Git, Github, Ansible, Jenkins, Terraform, Docker, Kubernetes, MySQL, Javascript and other DevOps tools - Nexus, SonarQube, OpenShift, New Relic, Packer, Grafana, Maven**
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 📝 I regularly write articles on Automation scripts
-- 💬 Ask me about **CI/CD, Terraform, Ansible, MYSQL, BASH**
+- 💬 Ask me about **CI/CD, and DevOps Projects**
 - 📫 How to reach me **ImGouravPandey@gmail.com**
 - 👨‍💻 meet me at [http://www.gouravdevops.me](http://www.gouravdevops.me)
 
