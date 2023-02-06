@@ -3,7 +3,7 @@
 <h3 align="center">DevOps Engineer, Cloud Architect and Linux Specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working with **MicroTechnologies India**
+- 🔭 I’m currently working at **MicroTechnologies India**
 - 🌱 My Technical Skills are **AWS Cloud, Git, Github, Ansible, Jenkins, Terraform, Docker, Kubernetes, MySQL, Javascript and other DevOps tools - Nexus, SonarQube, OpenShift, New Relic, Packer, Grafana, Maven**
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 📝 I regularly write articles on Automation scripts
