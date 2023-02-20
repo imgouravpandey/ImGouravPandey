@@ -19,10 +19,7 @@
 - 🌱 Build tool: **Maven**
 - 🌱 Artifact Repository: **Nexus**
 - 🌱 Code quality analysis tools: **SonarQube**
-- 🌱 Web/Application Servers: **Apache, Nginx, Tomcat, Microsoft IIS**S
-- 👯 I’m looking to collaborate on **DevOps projects**
-- 📝 I regularly write articles on Automation scripts
-- 💬 Ask me about **CI/CD, and DevOps Projects**
+- 🌱 Web/Application Servers: **Apache, Nginx, Tomcat, Microsoft IIS**
 - 📫 How to reach me **ImGouravPandey@gmail.com**
 - 👨‍💻 meet me at [http://www.gouravdevops.me](http://www.gouravdevops.me)
 
