@@ -4,21 +4,22 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working at **MicroTechnologies India**
-- 🌱 My Technical Skills are Cloud platform: **AWS**
-Continuous Integration/Continuous Delivery (CI/CD): **Jenkins**
-Infrastructure as Code (IaC): **Terraform**
-Configuration Management: **Ansible**
-Containerization: **Docker** and **Kubernetes**
-Automation: **Bash**
-Programming Language: **JavaScript**
-Monitoring and Logging: **Grafana** and **New Relic**
-Version Control: **Git/GitHub**
-Agile Methodologies: **Scrum** and **Kanban**
-Databases: **MySQL** and **MongoDB**
-Build tool: **Maven**
-Artifact Repository: **Nexus**
-Code quality analysis tools: **SonarQube**
-Web/Application Servers: **Apache, Nginx, Tomcat, Microsoft IIS**S
+- 🌱 My Technical Skills are 
+- 🌱 Cloud platform: **AWS**
+- 🌱 Continuous Integration/Continuous Delivery (CI/CD): **Jenkins**
+- 🌱 Infrastructure as Code (IaC): **Terraform**
+- 🌱 Configuration Management: **Ansible**
+- 🌱 Containerization: **Docker** and **Kubernetes**
+- 🌱 Automation: **Bash**
+- 🌱 Programming Language: **JavaScript**
+- 🌱 Monitoring and Logging: **Grafana** and **New Relic**
+- 🌱 Version Control: **Git/GitHub**
+- 🌱 Agile Methodologies: **Scrum** and **Kanban**
+- 🌱 Databases: **MySQL** and **MongoDB**
+- 🌱 Build tool: **Maven**
+- 🌱 Artifact Repository: **Nexus**
+- 🌱 Code quality analysis tools: **SonarQube**
+- 🌱 Web/Application Servers: **Apache, Nginx, Tomcat, Microsoft IIS**S
 - 👯 I’m looking to collaborate on **DevOps projects**
 - 📝 I regularly write articles on Automation scripts
 - 💬 Ask me about **CI/CD, and DevOps Projects**
