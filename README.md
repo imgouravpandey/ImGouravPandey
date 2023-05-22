@@ -1,10 +1,9 @@
 [![MasterHead](https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif)]
 <h1 align="center">Hi 👋, I'm Gourav Kumar Pandey</h1>
-<h3 align="center">DevOps Engineer, Cloud Architect</h3>
+<h3 align="center">DevOps Engineer, Cloud Architect, DevSecOps</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 My Technical Skills are 
 - 🌱 Cloud platform: **AWS**
 - 🌱 Continuous Integration/Continuous Delivery (CI/CD): **Jenkins** , **Github Actions** , **Circle CI** , **Gitlab CI**
 - 🌱 Infrastructure as Code (IaC): **Terraform** , **Terragrunt** , **Terratest**
