@@ -9,9 +9,9 @@
 - 🌱 Infrastructure as Code (IaC): **Terraform** , **Terragrunt** , **Terratest**
 - 🌱 Configuration Management: **Ansible**
 - 🌱 Containerization: **Docker** and **Kubernetes** **EKS,ECS,ECR**
-- 🌱 Automation: **Bash** , **Lambda**
-- 🌱 Programming Language: **JavaScript** , **Python** , **PHP**
-- 🌱 Monitoring and Logging: **Grafana** , **Prometheus** , **New Relic**
+- 🌱 Automation: **Bash** , **Lambda** , **ArgoCD**
+- 🌱 Programming Language: **Go** , **Python** , **Javascript**
+- 🌱 Monitoring and Logging: **Grafana** , **Prometheus** , **New Relic** , **Kibana** , **DataDog** , **Sentry**
 - 🌱 Version Control: **Git/GitHub/Gitlab**
 - 🌱 Agile Methodologies: **Scrum** and **Kanban**
 - 🌱 Databases: **MySQL** , **Redis** , **MongoDB**
