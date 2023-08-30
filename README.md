@@ -4,21 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 Cloud platform: **AWS**
-- 🌱 Continuous Integration/Continuous Delivery (CI/CD): **Jenkins** , **Github Actions** , **Circle CI** , **Gitlab CI**
-- 🌱 Infrastructure as Code (IaC): **Terraform** , **Terragrunt** , **Terratest**
-- 🌱 Configuration Management: **Ansible**
-- 🌱 Containerization: **Docker** and **Kubernetes** **EKS,ECS,ECR**
-- 🌱 Automation: **Bash** , **Lambda** , **ArgoCD**
-- 🌱 Programming Language: **Go** , **Python** , **Javascript**
-- 🌱 Monitoring and Logging: **Grafana** , **Prometheus** , **New Relic** , **Kibana** , **DataDog** , **Sentry**
-- 🌱 Version Control: **Git/GitHub/Gitlab**
-- 🌱 Agile Methodologies: **Scrum** and **Kanban**
-- 🌱 Databases: **MySQL** , **Redis** , **MongoDB**
-- 🌱 Build tool: **Maven** , **Ant**
-- 🌱 Artifact Repository: **Nexus**
-- 🌱 Code quality analysis tools: **SonarQube**
-- 🌱 Web/Application Servers: **Apache, Nginx, Tomcat, Microsoft IIS**
+
 - 📫 How to reach me **ImGouravPandey@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
