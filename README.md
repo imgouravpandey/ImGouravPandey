@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif)](https://github.com/imgouravpandey)
@@ -270,14 +272,6 @@ philosophy: "If you do it twice, automate it."
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imgouravpandey&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -329,3 +323,5 @@ philosophy: "If you do it twice, automate it."
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
+
+
